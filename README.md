@@ -80,7 +80,7 @@ Database : MySQL
 ![alt text](https://github.com/armanmalik4274/Hospital_Management_System/blob/main/Screenshots/DoctorHome.png)
 
 10. Doctor Viewing Appointment:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/DoctorViewingAppt.png)
+![alt text](https://github.com/armanmalik4274/Hospital_Management_System/blob/main/Screenshots/DoctorViewingAppt.png)
 
 11. Doctor Giving Diagnosis:
 ![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/Diagnosis.png)
