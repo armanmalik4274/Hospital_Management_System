@@ -62,7 +62,7 @@ Database : MySQL
 ![alt text](https://github.com/armanmalik4274/Hospital_Management_System/blob/main/Screenshots/LogInScreen.png)
 
 4. Password Reset Screen:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PasswordReset.png)
+![alt text](https://github.com/armanmalik4274/Hospital_Management_System/blob/main/Screenshots/PasswordReset.png)
 
 5. Patient Home Screen:
 ![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientHome.png)
