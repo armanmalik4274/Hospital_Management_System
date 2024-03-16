@@ -16,7 +16,7 @@ Database : MySQL
 </pre>
 
 <b>ER Diagram :</b>
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Schemas%26ER/myer.png)
+![alt text](https://github.com/armanmalik4274/Hospital_Management_System/blob/main/Schemas%26ER/myer.png)
 
 <b>Relational Schemas :</b>
 ![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Schemas%26ER/schema.png)
