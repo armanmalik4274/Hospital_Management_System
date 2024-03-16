@@ -1,5 +1,5 @@
 # Hosital-Management-System-DBMS
-<b>Link</b> : https://github.com/hrishikeshathalye/Hospital-Management-System-DBMS
+<b>Link</b> : https://github.com/armanmalik4274/Hospital_Management_System
 
 <pre>
 Name: Hrishikesh Athalye
