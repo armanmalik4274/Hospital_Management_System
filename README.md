@@ -2,9 +2,7 @@
 <b>Link</b> : https://github.com/armanmalik4274/Hospital_Management_System
 
 <pre>
-Name: Hrishikesh Athalye
-MIS: 111803154
-Class : TY Comp Div 2
+Name: Arman Malik
 </pre>
 
 Hospital Management System made for Sem 5 DBMS Course Project.<br>
