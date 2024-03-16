@@ -86,7 +86,7 @@ Database : MySQL
 ![alt text](https://github.com/armanmalik4274/Hospital_Management_System/blob/main/Screenshots/Diagnosis.png)
 
 12. Doctor Viewing Patient History:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/ViewingPatientHistory.png)
+![alt text](https://github.com/armanmalik4274/Hospital_Management_System/blob/main/Screenshots/ViewingPatientHistory.png)
 
 <b>Instructions to run:</b>
 
