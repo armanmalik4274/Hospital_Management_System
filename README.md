@@ -56,7 +56,7 @@ Database : MySQL
 ![alt text](https://github.com/armanmalik4274/Hospital_Management_System/blob/main/Screenshots/PatientRegistration.png)
 
 2. Doctor registering on the system:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/DoctorRegistration.png)
+![alt text](https://github.com/armanmalik4274/Hospital_Management_System/blob/main/Screenshots/DoctorRegistration.png)
 
 3. Log In Screen:
 ![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/LogInScreen.png)
